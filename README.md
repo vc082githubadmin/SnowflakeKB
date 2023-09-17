@@ -1,7 +1,7 @@
 # The Eternal Snowflake Knowledge Base ❄️
 Where Every Piece of Knowledge is Unique and Precious
 
-**Table of Contents** \n
+**Table of Contents** <br>
 Introduction
 
 Introduction
